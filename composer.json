@@ -1,0 +1,14 @@
+{
+    "name": "zhaozerui888/composer1",
+    "description": "测试学习",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaoyanping",
+            "email": "15031226078@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
